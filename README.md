@@ -1,7 +1,7 @@
 # RDBatch
-Batch Cart Field Importer for Rivendell Radio Automation
+Batch Cart Field Importer for Rivendell Radio Automation. RDBatch uses the Rivendell CWebAPI to post cart and cut updates.
 
-RDBatch uses the Rivendell CWebAPI to post cart and cut updates.
+#### Get the latest release [Here](https://github.com/aspinwalld/RDBatch/releases/latest)
 
 ## Before You Begin
 
