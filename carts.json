@@ -1,0 +1,853 @@
+{
+  "3FJ7DtxXvO6NnLm1zjf7uQ": {
+    "album": {
+      "id": "0LusQSeQvKXRTBZ7axVtjT",
+      "name": "Party Tyme Karaoke - Instrumentals 19",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "3JoDcjZtpq0ccldFgYmeAB",
+        "name": "Party Tyme Karaoke"
+      }
+    ],
+    "track": {
+      "id": "3FJ7DtxXvO6NnLm1zjf7uQ",
+      "isrc": "USSYS2003606",
+      "name": "Mood (Made Popular By 24kGoldn ft. iann dior) [Instrumental Version]",
+      "popularity": 10
+    },
+    "audio_features": {
+      "danceability": 0.69,
+      "energy": 0.647,
+      "key": 7,
+      "loudness": -8.166,
+      "mode": 0,
+      "speechiness": 0.108,
+      "acousticness": 0.263,
+      "instrumentalness": 0.832,
+      "liveness": 0.139,
+      "valence": 0.389,
+      "tempo": 181.946,
+      "type": "audio_features",
+      "id": "3FJ7DtxXvO6NnLm1zjf7uQ",
+      "uri": "spotify:track:3FJ7DtxXvO6NnLm1zjf7uQ",
+      "track_href": "https://api.spotify.com/v1/tracks/3FJ7DtxXvO6NnLm1zjf7uQ",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3FJ7DtxXvO6NnLm1zjf7uQ",
+      "duration_ms": 141570,
+      "time_signature": 4
+    }
+  },
+  "6FuGJB290AQMAHTfjOYVaK": {
+    "album": {
+      "id": "4PTxbJPI4jj0Kx8hwr1v0T",
+      "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
+      "type": "single"
+    },
+    "artists": [
+      {
+        "id": "6fWVd57NKTalqvmjRd2t8Z",
+        "name": "24kGoldn"
+      },
+      {
+        "id": "1uNFoZAHBGtllmzznpCI3s",
+        "name": "Justin Bieber"
+      },
+      {
+        "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+        "name": "J Balvin"
+      },
+      {
+        "id": "6ASri4ePR7RlsvIQgWPJpS",
+        "name": "iann dior"
+      }
+    ],
+    "track": {
+      "id": "6FuGJB290AQMAHTfjOYVaK",
+      "isrc": "USQX92004563",
+      "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
+      "popularity": 70
+    },
+    "audio_features": {
+      "danceability": 0.721,
+      "energy": 0.745,
+      "key": 7,
+      "loudness": -3.508,
+      "mode": 0,
+      "speechiness": 0.0366,
+      "acousticness": 0.151,
+      "instrumentalness": 1.24e-06,
+      "liveness": 0.372,
+      "valence": 0.699,
+      "tempo": 90.988,
+      "type": "audio_features",
+      "id": "6FuGJB290AQMAHTfjOYVaK",
+      "uri": "spotify:track:6FuGJB290AQMAHTfjOYVaK",
+      "track_href": "https://api.spotify.com/v1/tracks/6FuGJB290AQMAHTfjOYVaK",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/6FuGJB290AQMAHTfjOYVaK",
+      "duration_ms": 192745,
+      "time_signature": 4
+    }
+  },
+  "0uybt73QFXaLCoxuVf6fhm": {
+    "album": {
+      "id": "0e2vlZj9wAALaxr5Bhxvw8",
+      "name": "3 Doors Down",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "2RTUTCvo6onsAnheUk3aL9",
+        "name": "3 Doors Down"
+      }
+    ],
+    "track": {
+      "id": "0uybt73QFXaLCoxuVf6fhm",
+      "isrc": "USUM70803427",
+      "name": "It's Not My Time",
+      "popularity": 63
+    },
+    "audio_features": {
+      "danceability": 0.532,
+      "energy": 0.935,
+      "key": 0,
+      "loudness": -4.798,
+      "mode": 1,
+      "speechiness": 0.0619,
+      "acousticness": 0.00133,
+      "instrumentalness": 8.37e-06,
+      "liveness": 0.106,
+      "valence": 0.309,
+      "tempo": 128.025,
+      "type": "audio_features",
+      "id": "0uybt73QFXaLCoxuVf6fhm",
+      "uri": "spotify:track:0uybt73QFXaLCoxuVf6fhm",
+      "track_href": "https://api.spotify.com/v1/tracks/0uybt73QFXaLCoxuVf6fhm",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0uybt73QFXaLCoxuVf6fhm",
+      "duration_ms": 241960,
+      "time_signature": 4
+    }
+  },
+  "3bsDo5vjjJI7O8VuytGIrc": {
+    "album": {
+      "id": "66rs1T6AHa48toqzj56ST2",
+      "name": "Alternative 2K Essentials",
+      "type": "compilation"
+    },
+    "artists": [
+      {
+        "id": "0FWzNDaEu9jdgcYTbcOa4F",
+        "name": "3OH!3"
+      }
+    ],
+    "track": {
+      "id": "3bsDo5vjjJI7O8VuytGIrc",
+      "isrc": "USAT20900469",
+      "name": "Don't Trust Me",
+      "popularity": 37
+    },
+    "audio_features": {
+      "danceability": 0.757,
+      "energy": 0.629,
+      "key": 7,
+      "loudness": -5.582,
+      "mode": 0,
+      "speechiness": 0.125,
+      "acousticness": 0.018,
+      "instrumentalness": 0,
+      "liveness": 0.339,
+      "valence": 0.711,
+      "tempo": 129.946,
+      "type": "audio_features",
+      "id": "3bsDo5vjjJI7O8VuytGIrc",
+      "uri": "spotify:track:3bsDo5vjjJI7O8VuytGIrc",
+      "track_href": "https://api.spotify.com/v1/tracks/3bsDo5vjjJI7O8VuytGIrc",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3bsDo5vjjJI7O8VuytGIrc",
+      "duration_ms": 194613,
+      "time_signature": 4
+    }
+  },
+  "2bjUEg4jBtKBlPdNrTAppI": {
+    "album": {
+      "id": "46K4raQPIGem3N031upNj9",
+      "name": "CALM",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "5Rl15oVamLq7FbSb0NNBNy",
+        "name": "5 Seconds of Summer"
+      }
+    ],
+    "track": {
+      "id": "2bjUEg4jBtKBlPdNrTAppI",
+      "isrc": "USUG11901520",
+      "name": "Easier",
+      "popularity": 69
+    },
+    "audio_features": {
+      "danceability": 0.562,
+      "energy": 0.46,
+      "key": 5,
+      "loudness": -4.173,
+      "mode": 1,
+      "speechiness": 0.259,
+      "acousticness": 0.476,
+      "instrumentalness": 0,
+      "liveness": 0.107,
+      "valence": 0.623,
+      "tempo": 176.055,
+      "type": "audio_features",
+      "id": "2bjUEg4jBtKBlPdNrTAppI",
+      "uri": "spotify:track:2bjUEg4jBtKBlPdNrTAppI",
+      "track_href": "https://api.spotify.com/v1/tracks/2bjUEg4jBtKBlPdNrTAppI",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2bjUEg4jBtKBlPdNrTAppI",
+      "duration_ms": 158099,
+      "time_signature": 4
+    }
+  },
+  "26wLOs3ZuHJa2Ihhx6QIE6": {
+    "album": {
+      "id": "1zbH0DnpYxaoqTojXNLQb6",
+      "name": "13 Reasons Why (Season 3)",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "5Rl15oVamLq7FbSb0NNBNy",
+        "name": "5 Seconds of Summer"
+      }
+    ],
+    "track": {
+      "id": "26wLOs3ZuHJa2Ihhx6QIE6",
+      "isrc": "USUG11902528",
+      "name": "Teeth",
+      "popularity": 79
+    },
+    "audio_features": {
+      "danceability": 0.756,
+      "energy": 0.448,
+      "key": 3,
+      "loudness": -2.993,
+      "mode": 0,
+      "speechiness": 0.0404,
+      "acousticness": 0.0508,
+      "instrumentalness": 3.87e-06,
+      "liveness": 0.11,
+      "valence": 0.431,
+      "tempo": 139.031,
+      "type": "audio_features",
+      "id": "26wLOs3ZuHJa2Ihhx6QIE6",
+      "uri": "spotify:track:26wLOs3ZuHJa2Ihhx6QIE6",
+      "track_href": "https://api.spotify.com/v1/tracks/26wLOs3ZuHJa2Ihhx6QIE6",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/26wLOs3ZuHJa2Ihhx6QIE6",
+      "duration_ms": 204887,
+      "time_signature": 4
+    }
+  },
+  "2vHfabj6nFebekTYODqntl": {
+    "album": {
+      "id": "2D0Hi3Jj6RFnpWDcSa0Otu",
+      "name": "Youngblood (Deluxe)",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "5Rl15oVamLq7FbSb0NNBNy",
+        "name": "5 Seconds of Summer"
+      }
+    ],
+    "track": {
+      "id": "2vHfabj6nFebekTYODqntl",
+      "isrc": "GBUM71800363",
+      "name": "Want You Back",
+      "popularity": 64
+    },
+    "audio_features": {
+      "danceability": 0.618,
+      "energy": 0.867,
+      "key": 0,
+      "loudness": -4.915,
+      "mode": 1,
+      "speechiness": 0.0439,
+      "acousticness": 0.00699,
+      "instrumentalness": 1.03e-06,
+      "liveness": 0.202,
+      "valence": 0.579,
+      "tempo": 98.03,
+      "type": "audio_features",
+      "id": "2vHfabj6nFebekTYODqntl",
+      "uri": "spotify:track:2vHfabj6nFebekTYODqntl",
+      "track_href": "https://api.spotify.com/v1/tracks/2vHfabj6nFebekTYODqntl",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2vHfabj6nFebekTYODqntl",
+      "duration_ms": 173082,
+      "time_signature": 4
+    }
+  },
+  "2iUXsYOEPhVqEBwsqP70rE": {
+    "album": {
+      "id": "2D0Hi3Jj6RFnpWDcSa0Otu",
+      "name": "Youngblood (Deluxe)",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "5Rl15oVamLq7FbSb0NNBNy",
+        "name": "5 Seconds of Summer"
+      }
+    ],
+    "track": {
+      "id": "2iUXsYOEPhVqEBwsqP70rE",
+      "isrc": "GBUM71800366",
+      "name": "Youngblood",
+      "popularity": 82
+    },
+    "audio_features": {
+      "danceability": 0.596,
+      "energy": 0.854,
+      "key": 7,
+      "loudness": -5.114,
+      "mode": 0,
+      "speechiness": 0.463,
+      "acousticness": 0.0169,
+      "instrumentalness": 0,
+      "liveness": 0.124,
+      "valence": 0.152,
+      "tempo": 120.274,
+      "type": "audio_features",
+      "id": "2iUXsYOEPhVqEBwsqP70rE",
+      "uri": "spotify:track:2iUXsYOEPhVqEBwsqP70rE",
+      "track_href": "https://api.spotify.com/v1/tracks/2iUXsYOEPhVqEBwsqP70rE",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2iUXsYOEPhVqEBwsqP70rE",
+      "duration_ms": 203418,
+      "time_signature": 4
+    }
+  },
+  "36Hwcla06Q5BCr59CL0sBp": {
+    "album": {
+      "id": "5VfBwkAoSsQwtZjPU0Gr7h",
+      "name": "Curtis",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "3q7HBObVc0L8jNeTe5Gofh",
+        "name": "50 Cent"
+      },
+      {
+        "id": "31TPClRtHm23RisEBtV3X7",
+        "name": "Justin Timberlake"
+      },
+      {
+        "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+        "name": "Timbaland"
+      }
+    ],
+    "track": {
+      "id": "36Hwcla06Q5BCr59CL0sBp",
+      "isrc": "USUM70735445",
+      "name": "Ayo Technology",
+      "popularity": 57
+    },
+    "audio_features": {
+      "danceability": 0.63,
+      "energy": 0.782,
+      "key": 8,
+      "loudness": -5.44,
+      "mode": 0,
+      "speechiness": 0.132,
+      "acousticness": 0.0828,
+      "instrumentalness": 0,
+      "liveness": 0.034,
+      "valence": 0.418,
+      "tempo": 140.144,
+      "type": "audio_features",
+      "id": "36Hwcla06Q5BCr59CL0sBp",
+      "uri": "spotify:track:36Hwcla06Q5BCr59CL0sBp",
+      "track_href": "https://api.spotify.com/v1/tracks/36Hwcla06Q5BCr59CL0sBp",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/36Hwcla06Q5BCr59CL0sBp",
+      "duration_ms": 247947,
+      "time_signature": 4
+    }
+  },
+  "5q3LwAHTqo9d3rET2EA9Nq": {
+    "album": {
+      "id": "6zQD9g698P2LjEtKpoBXWq",
+      "name": "The Weekend",
+      "type": "single"
+    },
+    "artists": [
+      {
+        "id": "1AhjOkOLkbHUfcHDSErXQs",
+        "name": "88rising"
+      },
+      {
+        "id": "6UbmqUEgjLA6jAcXwbM1Z9",
+        "name": "BIBI"
+      }
+    ],
+    "track": {
+      "id": "5q3LwAHTqo9d3rET2EA9Nq",
+      "isrc": "USWB12103706",
+      "name": "The Weekend",
+      "popularity": 71
+    },
+    "audio_features": {
+      "danceability": 0.784,
+      "energy": 0.521,
+      "key": 1,
+      "loudness": -5.701,
+      "mode": 1,
+      "speechiness": 0.0322,
+      "acousticness": 0.062,
+      "instrumentalness": 4.75e-06,
+      "liveness": 0.0995,
+      "valence": 0.817,
+      "tempo": 101.491,
+      "type": "audio_features",
+      "id": "5q3LwAHTqo9d3rET2EA9Nq",
+      "uri": "spotify:track:5q3LwAHTqo9d3rET2EA9Nq",
+      "track_href": "https://api.spotify.com/v1/tracks/5q3LwAHTqo9d3rET2EA9Nq",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5q3LwAHTqo9d3rET2EA9Nq",
+      "duration_ms": 167662,
+      "time_signature": 4
+    }
+  },
+  "3Ol2xnObFdKV9pmRD2t9x8": {
+    "album": {
+      "id": "3r5hf3Cj3EMh1C2saQ8jyt",
+      "name": "Hoodie SZN",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "31W5EY0aAly4Qieq6OFu6I",
+        "name": "A Boogie Wit da Hoodie"
+      }
+    ],
+    "track": {
+      "id": "3Ol2xnObFdKV9pmRD2t9x8",
+      "isrc": "USAT21812667",
+      "name": "Look Back at It",
+      "popularity": 76
+    },
+    "audio_features": {
+      "danceability": 0.791,
+      "energy": 0.587,
+      "key": 3,
+      "loudness": -5.075,
+      "mode": 0,
+      "speechiness": 0.0413,
+      "acousticness": 0.407,
+      "instrumentalness": 0,
+      "liveness": 0.148,
+      "valence": 0.536,
+      "tempo": 96.057,
+      "type": "audio_features",
+      "id": "3Ol2xnObFdKV9pmRD2t9x8",
+      "uri": "spotify:track:3Ol2xnObFdKV9pmRD2t9x8",
+      "track_href": "https://api.spotify.com/v1/tracks/3Ol2xnObFdKV9pmRD2t9x8",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Ol2xnObFdKV9pmRD2t9x8",
+      "duration_ms": 179449,
+      "time_signature": 4
+    }
+  },
+  "4RW6eUUtcp1llgvEHx7HjU": {
+    "album": {
+      "id": "4AWnimxu0aJOahnU7T9gXM",
+      "name": "Covers and Collabs Vol. 1",
+      "type": "compilation"
+    },
+    "artists": [
+      {
+        "id": "5148ArIqx11KON7HEAWLeW",
+        "name": "Danny Padilla"
+      }
+    ],
+    "track": {
+      "id": "4RW6eUUtcp1llgvEHx7HjU",
+      "isrc": "USE830919015",
+      "name": "Say Something (Originally by A Great Big World ft. Christina Aguilera)",
+      "popularity": 3
+    },
+    "audio_features": {
+      "danceability": 0.267,
+      "energy": 0.173,
+      "key": 1,
+      "loudness": -11.407,
+      "mode": 1,
+      "speechiness": 0.0305,
+      "acousticness": 0.845,
+      "instrumentalness": 0,
+      "liveness": 0.181,
+      "valence": 0.161,
+      "tempo": 98.327,
+      "type": "audio_features",
+      "id": "4RW6eUUtcp1llgvEHx7HjU",
+      "uri": "spotify:track:4RW6eUUtcp1llgvEHx7HjU",
+      "track_href": "https://api.spotify.com/v1/tracks/4RW6eUUtcp1llgvEHx7HjU",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4RW6eUUtcp1llgvEHx7HjU",
+      "duration_ms": 229362,
+      "time_signature": 4
+    }
+  },
+  "0Gee5mDV8DiP4YNSQT2gOK": {
+    "album": {
+      "id": "1Uxap1gEvFIxgw3mKwD8Lt",
+      "name": "L\u00d8V\u00cb",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "5338fdSzGNOFD4cxAxDTeq",
+        "name": "Aaron Carter"
+      }
+    ],
+    "track": {
+      "id": "0Gee5mDV8DiP4YNSQT2gOK",
+      "isrc": "USQX91602389",
+      "name": "Sooner Or Later",
+      "popularity": 49
+    },
+    "audio_features": {
+      "danceability": 0.737,
+      "energy": 0.731,
+      "key": 5,
+      "loudness": -6.787,
+      "mode": 0,
+      "speechiness": 0.0358,
+      "acousticness": 0.12,
+      "instrumentalness": 1.29e-05,
+      "liveness": 0.0731,
+      "valence": 0.435,
+      "tempo": 111.955,
+      "type": "audio_features",
+      "id": "0Gee5mDV8DiP4YNSQT2gOK",
+      "uri": "spotify:track:0Gee5mDV8DiP4YNSQT2gOK",
+      "track_href": "https://api.spotify.com/v1/tracks/0Gee5mDV8DiP4YNSQT2gOK",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Gee5mDV8DiP4YNSQT2gOK",
+      "duration_ms": 212564,
+      "time_signature": 4
+    }
+  },
+  "2XKsHHNCtKqk9cF35TRFyC": {
+    "album": {
+      "id": "19WRWWmZJvhypam9o6heVJ",
+      "name": "Do It To It (Ti\u00ebsto Remix)",
+      "type": "single"
+    },
+    "artists": [
+      {
+        "id": "4pnp4w9g30yLfVIAFnZMRd",
+        "name": "ACRAZE"
+      },
+      {
+        "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+        "name": "Ti\u00ebsto"
+      },
+      {
+        "id": "1c70yCa8sRgIiQxl3HOEFo",
+        "name": "Cherish"
+      }
+    ],
+    "track": {
+      "id": "2XKsHHNCtKqk9cF35TRFyC",
+      "isrc": "QZFPL2100131",
+      "name": "Do It To It - Ti\u00ebsto Remix",
+      "popularity": 69
+    },
+    "audio_features": {
+      "danceability": 0.636,
+      "energy": 0.892,
+      "key": 2,
+      "loudness": -5.573,
+      "mode": 1,
+      "speechiness": 0.0386,
+      "acousticness": 0.000422,
+      "instrumentalness": 0.0954,
+      "liveness": 0.156,
+      "valence": 0.456,
+      "tempo": 125.003,
+      "type": "audio_features",
+      "id": "2XKsHHNCtKqk9cF35TRFyC",
+      "uri": "spotify:track:2XKsHHNCtKqk9cF35TRFyC",
+      "track_href": "https://api.spotify.com/v1/tracks/2XKsHHNCtKqk9cF35TRFyC",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2XKsHHNCtKqk9cF35TRFyC",
+      "duration_ms": 125280,
+      "time_signature": 4
+    }
+  },
+  "2rDwdvBma1O1eLzo29p2cr": {
+    "album": {
+      "id": "0cUNjl7p6LYZJkKXJWzqP0",
+      "name": "For Your Entertainment",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "6prmLEyn4LfHlD9NnXWlf7",
+        "name": "Adam Lambert"
+      }
+    ],
+    "track": {
+      "id": "2rDwdvBma1O1eLzo29p2cr",
+      "isrc": "GBCTA0900344",
+      "name": "Whataya Want from Me",
+      "popularity": 63
+    },
+    "audio_features": {
+      "danceability": 0.44,
+      "energy": 0.683,
+      "key": 11,
+      "loudness": -4.732,
+      "mode": 0,
+      "speechiness": 0.0489,
+      "acousticness": 0.00706,
+      "instrumentalness": 0,
+      "liveness": 0.0593,
+      "valence": 0.445,
+      "tempo": 185.948,
+      "type": "audio_features",
+      "id": "2rDwdvBma1O1eLzo29p2cr",
+      "uri": "spotify:track:2rDwdvBma1O1eLzo29p2cr",
+      "track_href": "https://api.spotify.com/v1/tracks/2rDwdvBma1O1eLzo29p2cr",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2rDwdvBma1O1eLzo29p2cr",
+      "duration_ms": 227320,
+      "time_signature": 4
+    }
+  },
+  "0gplL1WMoJ6iYaPgMCL0gX": {
+    "album": {
+      "id": "224jZ4sUX7OhAuMwaxp86S",
+      "name": "Easy On Me",
+      "type": "single"
+    },
+    "artists": [
+      {
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele"
+      }
+    ],
+    "track": {
+      "id": "0gplL1WMoJ6iYaPgMCL0gX",
+      "isrc": "USSM12105970",
+      "name": "Easy On Me",
+      "popularity": 85
+    },
+    "audio_features": {
+      "danceability": 0.604,
+      "energy": 0.366,
+      "key": 5,
+      "loudness": -7.519,
+      "mode": 1,
+      "speechiness": 0.0282,
+      "acousticness": 0.578,
+      "instrumentalness": 0,
+      "liveness": 0.133,
+      "valence": 0.13,
+      "tempo": 141.981,
+      "type": "audio_features",
+      "id": "0gplL1WMoJ6iYaPgMCL0gX",
+      "uri": "spotify:track:0gplL1WMoJ6iYaPgMCL0gX",
+      "track_href": "https://api.spotify.com/v1/tracks/0gplL1WMoJ6iYaPgMCL0gX",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0gplL1WMoJ6iYaPgMCL0gX",
+      "duration_ms": 224695,
+      "time_signature": 4
+    }
+  },
+  "62PaSfnXSMyLshYJrlTuL3": {
+    "album": {
+      "id": "3AvPX1B1HiFROvYjLb5Qwi",
+      "name": "25",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele"
+      }
+    ],
+    "track": {
+      "id": "62PaSfnXSMyLshYJrlTuL3",
+      "isrc": "GBBKS1500214",
+      "name": "Hello",
+      "popularity": 74
+    },
+    "audio_features": {
+      "danceability": 0.578,
+      "energy": 0.43,
+      "key": 5,
+      "loudness": -6.134,
+      "mode": 0,
+      "speechiness": 0.0305,
+      "acousticness": 0.33,
+      "instrumentalness": 0,
+      "liveness": 0.0854,
+      "valence": 0.288,
+      "tempo": 78.991,
+      "type": "audio_features",
+      "id": "62PaSfnXSMyLshYJrlTuL3",
+      "uri": "spotify:track:62PaSfnXSMyLshYJrlTuL3",
+      "track_href": "https://api.spotify.com/v1/tracks/62PaSfnXSMyLshYJrlTuL3",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/62PaSfnXSMyLshYJrlTuL3",
+      "duration_ms": 295502,
+      "time_signature": 4
+    }
+  },
+  "3Kkjo3cT83cw09VJyrLNwX": {
+    "album": {
+      "id": "21jF5jlMtzo94wbxmJ18aa",
+      "name": "30",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele"
+      }
+    ],
+    "track": {
+      "id": "3Kkjo3cT83cw09VJyrLNwX",
+      "isrc": "USSM12105973",
+      "name": "Oh My God",
+      "popularity": 82
+    },
+    "audio_features": {
+      "danceability": 0.534,
+      "energy": 0.725,
+      "key": 1,
+      "loudness": -3.906,
+      "mode": 1,
+      "speechiness": 0.046,
+      "acousticness": 0.091,
+      "instrumentalness": 0,
+      "liveness": 0.0264,
+      "valence": 0.55,
+      "tempo": 88.098,
+      "type": "audio_features",
+      "id": "3Kkjo3cT83cw09VJyrLNwX",
+      "uri": "spotify:track:3Kkjo3cT83cw09VJyrLNwX",
+      "track_href": "https://api.spotify.com/v1/tracks/3Kkjo3cT83cw09VJyrLNwX",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Kkjo3cT83cw09VJyrLNwX",
+      "duration_ms": 225149,
+      "time_signature": 4
+    }
+  },
+  "1c8gk2PeTE04A1pIDH9YMk": {
+    "album": {
+      "id": "0Lg1uZvI312TPqxNWShFXL",
+      "name": "21",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele"
+      }
+    ],
+    "track": {
+      "id": "1c8gk2PeTE04A1pIDH9YMk",
+      "isrc": "GBBKS1000335",
+      "name": "Rolling in the Deep",
+      "popularity": 80
+    },
+    "audio_features": {
+      "danceability": 0.73,
+      "energy": 0.769,
+      "key": 8,
+      "loudness": -5.114,
+      "mode": 1,
+      "speechiness": 0.0298,
+      "acousticness": 0.138,
+      "instrumentalness": 0,
+      "liveness": 0.0473,
+      "valence": 0.507,
+      "tempo": 104.948,
+      "type": "audio_features",
+      "id": "1c8gk2PeTE04A1pIDH9YMk",
+      "uri": "spotify:track:1c8gk2PeTE04A1pIDH9YMk",
+      "track_href": "https://api.spotify.com/v1/tracks/1c8gk2PeTE04A1pIDH9YMk",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/1c8gk2PeTE04A1pIDH9YMk",
+      "duration_ms": 228093,
+      "time_signature": 4
+    }
+  },
+  "2A73XBDBQgmdXO8VsXPWIs": {
+    "album": {
+      "id": "0Lg1uZvI312TPqxNWShFXL",
+      "name": "21",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele"
+      }
+    ],
+    "track": {
+      "id": "2A73XBDBQgmdXO8VsXPWIs",
+      "isrc": "GBBKS1000349",
+      "name": "Rumour Has It",
+      "popularity": 68
+    },
+    "audio_features": {
+      "danceability": 0.612,
+      "energy": 0.749,
+      "key": 0,
+      "loudness": -5.014,
+      "mode": 1,
+      "speechiness": 0.0446,
+      "acousticness": 0.615,
+      "instrumentalness": 0,
+      "liveness": 0.167,
+      "valence": 0.574,
+      "tempo": 120.052,
+      "type": "audio_features",
+      "id": "2A73XBDBQgmdXO8VsXPWIs",
+      "uri": "spotify:track:2A73XBDBQgmdXO8VsXPWIs",
+      "track_href": "https://api.spotify.com/v1/tracks/2A73XBDBQgmdXO8VsXPWIs",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2A73XBDBQgmdXO8VsXPWIs",
+      "duration_ms": 223267,
+      "time_signature": 4
+    }
+  },
+  "0t7fVeEJxO2Xi4H2K5Svc9": {
+    "album": {
+      "id": "3AvPX1B1HiFROvYjLb5Qwi",
+      "name": "25",
+      "type": "album"
+    },
+    "artists": [
+      {
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele"
+      }
+    ],
+    "track": {
+      "id": "0t7fVeEJxO2Xi4H2K5Svc9",
+      "isrc": "GBBKS1500215",
+      "name": "Send My Love (To Your New Lover)",
+      "popularity": 74
+    },
+    "audio_features": {
+      "danceability": 0.688,
+      "energy": 0.533,
+      "key": 6,
+      "loudness": -8.363,
+      "mode": 0,
+      "speechiness": 0.0865,
+      "acousticness": 0.0355,
+      "instrumentalness": 3.48e-06,
+      "liveness": 0.172,
+      "valence": 0.567,
+      "tempo": 164.069,
+      "type": "audio_features",
+      "id": "0t7fVeEJxO2Xi4H2K5Svc9",
+      "uri": "spotify:track:0t7fVeEJxO2Xi4H2K5Svc9",
+      "track_href": "https://api.spotify.com/v1/tracks/0t7fVeEJxO2Xi4H2K5Svc9",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0t7fVeEJxO2Xi4H2K5Svc9",
+      "duration_ms": 223079,
+      "time_signature": 4
+    }
+  }
+}
