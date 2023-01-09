@@ -20,6 +20,7 @@ There are several constants located at the top of the script `rdbatch.py` which 
 | `UPDATE_CARTS` | `bool` | Set flag to update cart fields. |
 | `UPDATE_CUTS` | `bool` | Set flag to update cut fields. |
 | `UPDATE_SCHED_CODES` | `bool` | Set flag to assign sched codes. |
+| `LOOP_WAIT_MS` | `int` | Pause at the end of each loop for this amount of milliseconds. This can be used to slow down data into Rivendell, if needed. |
 
 ## Limitations
 

@@ -1,5 +1,6 @@
 import csv
 import requests
+from time import sleep
 
 ###### PROGRAM CONSTANTS ######
 
@@ -9,9 +10,11 @@ RD_HOST = '127.0.0.1'
 RD_USER = 'user'
 RD_PSWD = ''
 
-UPDATE_CARTS = False
-UPDATE_CUTS = False
+UPDATE_CARTS = True
+UPDATE_CUTS = True
 UPDATE_SCHED_CODES = False
+
+LOOP_WAIT_MS = 10
 
 ###############################
 
@@ -28,7 +31,7 @@ def logo() -> None:
 | $$  | $$| $$    $$| $$    $$ \$$    $$  \$$  $$ \$$     \| $$  | $$
  \$$   \$$ \$$$$$$$  \$$$$$$$   \$$$$$$$   \$$$$   \$$$$$$$ \$$   \$$
 
-  Cart database bulk importer for Rivendell Radio Automation | v1.0
+  Cart database bulk importer for Rivendell Radio Automation | v1.1
     ''')
 
 
@@ -184,6 +187,8 @@ if __name__ == '__main__':
             api.assign_sched_codes(cart)
         progress(i+1, total_carts,
                  f'[INF] {i+1} of {total_carts}', 'Complete', 1, 30)
+        
+        sleep(LOOP_WAIT_MS / 1000)
 
     if api.error_count == 0:
         print('[INF] All carts succesfully updated. Goodbye!')
